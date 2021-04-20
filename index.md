@@ -10,4 +10,4 @@ The members of this group are:
 
 Here's an included visualization.
 
-{% include_relative Visualization/ww-cases.html %}
+{% include_relative Visualizations/ww-cases.html %}
